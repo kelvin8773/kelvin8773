@@ -23,7 +23,8 @@
 [<img align="left" alt="Kelvin9877 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kelvin9877 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/>
+<br />
+<br />
 
 ## 📕 My Latest Blog posts
 
@@ -36,7 +37,7 @@
 - [Why I should check my code's performance?](https://dev.to/kelvin9877/why-i-should-check-the-performance-of-my-code-19cl)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+<br />
 
 ## 📊 This week I spent my time on
 
@@ -48,7 +49,7 @@ No Activity tracked this Week
 
 <!--END_SECTION:waka-->
 
-<br/>
+<br />
 
 ## Github Summary
 
