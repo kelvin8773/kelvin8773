@@ -17,10 +17,15 @@
 - Regularly, I would love to write technical articles about my journey to the coding world.
 - I currently seeking some cool open sources project to contribute.
 
-# 📕 My Latest Blog posts
+📕 **My Latest Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+📊 **This week I spent my time on**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Github Summary
 
