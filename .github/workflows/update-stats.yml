@@ -15,5 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: <kelvin8773>
+          USERNAME: kelvin8773
           SHOW_TITLE: true
