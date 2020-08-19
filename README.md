@@ -42,7 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 August, 2020 - 18 August, 2020
+
+TypeScript   55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 % 
+Markdown     41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 % 
+JavaScript   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+YAML         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+JSON         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 ```
 <!--END_SECTION:waka-->
 
