@@ -29,6 +29,7 @@
 ## 📕 My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Strategy to get a developer job in 2020](https://dev.to/kelvin9877/what-is-my-strategy-to-get-a-job-in-frontend-39gg)
 - [What is my reason to learn to code](https://dev.to/kelvin9877/what-is-my-reason-to-learn-to-code-6k2)
 - [How to write tests for React in 2020 - part 2](https://dev.to/kelvin9877/how-to-write-tests-for-react-in-2020-part-2-26h)
@@ -38,18 +39,20 @@
 
 <br />
 
-## 📊 This week I spent my time on
+## My Coding Stats on Github
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 11 August, 2020 - 18 August, 2020
 
-TypeScript   55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 % 
-Markdown     41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 % 
-JavaScript   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-YAML         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-JSON         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+TypeScript   55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 %
+Markdown     41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+JavaScript   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+YAML         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+JSON         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br />
