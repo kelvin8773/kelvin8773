@@ -1,20 +1,20 @@
 ### Hello, 👋, I am Kelvin from China.
 
-## I am a Husband, Father, developer and runner.
+## I am a husband, father, developer and runner.
 
-- I am current mainly working on Front End with tech stacks:
+- I am current mainly working on frontend with tech stacks:
   - React.js
   - Gatsby.js
-  - Typescript
+  - TypeScript
   - GraphQL
   - Bootstrap / TailwindCSS / Ant Design / Material-UI
 - But I do have experiences on other tech stacks as well:
   - Ruby / Ruby on Rails
   - Node.js / Express.js
   - MySQL / PostgreSQL / MongoDB
-  - Python / NumPy / Pandas /Scikit-Learn / Tensor-flow
-  - Docker / kubernetes
-- Regularly, I would love to write technical articles about my journey to the coding world.
+  - Python / NumPy / Pandas / Scikit-Learn / TensorFlow
+  - Docker / Kubernetes
+- Regularly, I would love to write articles about my journey to the coding world.
 - I currently seeking some cool open sources project to contribute.
 
 ### Connect with me:
