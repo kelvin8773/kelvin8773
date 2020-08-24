@@ -8,14 +8,14 @@
   - TypeScript
   - GraphQL
   - Bootstrap / TailwindCSS / Ant Design / Material-UI
-- But I do have experiences on other tech stacks as well:
+- I also have experiences on other tech stacks as well:
   - Ruby / Ruby on Rails
   - Node.js / Express.js
   - MySQL / PostgreSQL / MongoDB
   - Python / NumPy / Pandas / Scikit-Learn / TensorFlow
   - Docker / Kubernetes
-- Regularly, I would love to write articles about my journey to the coding world.
-- I currently seeking some cool open sources project to contribute.
+- Regularly, I love to write articles about my journey to the coding world.
+- I am currently seeking some cool open sources project to contribute.
 
 ### Connect with me:
 
