@@ -1,13 +1,15 @@
 ### Hello, 👋, I am Kelvin from China.
 
-## I am a husband, father, developer and runner.
+## I am a father, developer and runner.
 
 - I am current mainly working on frontend with tech stacks:
   - React.js
+  - React Native
   - Gatsby.js
   - TypeScript
   - GraphQL
   - Bootstrap / TailwindCSS / Ant Design / Material-UI
+  
 - I also have experiences on other tech stacks as well:
   - Ruby / Ruby on Rails
   - Node.js / Express.js
