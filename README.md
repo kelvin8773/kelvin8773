@@ -32,18 +32,20 @@
 
 <details>
   <summary>Sporting</summary>  
+  
   - #### Running
-    1. Marathon
-    2. Jogging
-    3. Trail Running
+    * Marathon
+    * Jogging
+    * Trail Running
   - #### Exercising
-    1. HIIT
-    2. Weight Lifting  
+    * HIIT
+    * Weight Lifting  
   - #### Swimming
 </details>
 
 <details>
   <summary>Writing</summary> 
+  
   * Learn To Code
   * Job Searching
   * Technical Issues
@@ -51,6 +53,7 @@
 
 <details>
   <summary>Reading</summary>  
+  
   * Coding Relate
   * History (Ancient Greece / China / US)
   * Biograhy (Politician / Scientist / Businessman)
@@ -58,7 +61,8 @@
 </details> 
 
 <details>
-  <summary>Cooking</summary>  
+  <summary>Cooking</summary> 
+  
   * Cantonese Style
   * SiChun Style
   * Western Style  
