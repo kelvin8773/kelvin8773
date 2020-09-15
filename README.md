@@ -1,54 +1,73 @@
-### Hello, 👋, This is Kelvin.
+# Hello, 👋, This is Kelvin.
 
 ## I am a father, developer and runner from China.
 
-- I am currently learning & working on: 
+### I am currently learning & working on: 
   - Online Marketing (Google Analystic / SEO)
   - Mobile Development (React Native)
   - React Eco System (Testing, Styling, SSR & SSG)
   - Javascript (YDKJS, Javascript-The Good Parts, other JS framework - Vue.js)
   
-- My Tech Stacks:
-  - Javascript
-    - React
-      - Typescript
-      - Gatsby.js
-      - Jest / Testing Library / Cypress
-      - Material-UI / Ant Design
-    - Node.js
-      - Express.js
-   - Ruby
-     - Ruby On Rails
-   - Python
-     - NumPy / Pandas
-     - Scikit-learn
-     - Tensor Flow
-   - Database
-     - MySQL
-     - MongoDB
-     - PostgreSQL
-  - Docker
-    - Kubernetes
-    
-- My Faviorites Things To Do:
-  - Sporting
-    - Running
-      - Marathon
-      - Jogging
-      - Trail Running
-    - Exercising
-      - HIIT
-      - Weight Lifting
-    - Swimming
-  - Writing
-    - Learning Journey
-    - Job Searching
-    - Technical Issues
- - Reading
- - Cooking
-  
+### My Tech Stacks:
 
-### Note - I am currently seeking some cool open sources project to contribute.
+| Language/Stack |  Framework/Catagories |  Technologies |
+|----------------|-----------------------|---------------|
+| Javascript | React | TypeScript | 
+|            | State Management | Redux | 
+|            | Static Site Generator | Gatsby.js | 
+|            | Testing | Jest / Testing Library / Cypress |
+|            | Styling | Material-UI / Ant Design |
+|            | Node.js | Express.js |
+| Ruby       | Ruby on Rails | MVC / RESTFUL API |
+| Pyhon      | Data Science | NumPy / Pandas |
+|            | Maching Learning | Scikit Learn / Tensor Flow|
+| Database   | Querying | TSQL(MySQL/PostgreSQL) / NoSQL(MongoDB) | 
+|            | Administration | MySQL / MsSQL |
+| CI/CD      | Dokcer         | Kubernetes  |
+|            | Styling        | Stickler CI |
+|            | Saas           | Netlify / Heroku / Vercel |
+
+    
+### My Faviorites Things To Do:
+
+<details>
+  <summary>Sporting</summary>  
+  - #### Running
+    1. Marathon
+    2. Jogging
+    3. Trail Running
+  - #### Exercising
+    1. HIIT
+    2. Weight Lifting  
+  - #### Swimming
+</details>
+
+<details>
+  <summary>Writing</summary> 
+  * Learn To Code
+  * Job Searching
+  * Technical Issues
+</details>
+
+<details>
+  <summary>Reading</summary>  
+  * Coding Relate
+  * History (Ancient Greece / China / US)
+  * Biograhy (Politician / Scientist / Businessman)
+  * Nutrition (Cooking / Healthy Die / Exercising)
+</details> 
+
+<details>
+  <summary>Cooking</summary>  
+  * Cantonese Style
+  * SiChun Style
+  * Western Style  
+</details> 
+
+### Please Note: 
+* I am currently seeking some cool open sources projects to contribute.
+* I am open for contract, temp & permanent jobs remotely from China. 
+
 
 ### Connect with me:
 
