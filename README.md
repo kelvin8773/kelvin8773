@@ -97,9 +97,9 @@
 ## My Coding Stats on Github
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -130,10 +130,10 @@ Sunday       84 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 49 mins       ██████████████████████░░░   89.7% 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
+JavaScript               3 hrs 41 mins       ██████████████████████░░░   89.41% 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 ```
