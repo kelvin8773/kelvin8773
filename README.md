@@ -97,7 +97,7 @@
 ## My Coding Stats on Github
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -130,10 +130,9 @@ Sunday       87 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               5 hrs 58 mins       ████████████████████████░   96.87% 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+JavaScript               5 hrs 58 mins       ████████████████████████░   97.06% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
 Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 ```
