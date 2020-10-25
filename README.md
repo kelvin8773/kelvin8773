@@ -99,7 +99,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -130,11 +130,7 @@ Sunday       88 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSX                      9 mins              █████████████████░░░░░░░░   69.84% 
-JavaScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
-LESS                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.99% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
+No Activity Tracked This Week
 
 ```
 
