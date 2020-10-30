@@ -3,9 +3,9 @@
 ## I am a father, developer and runner from China.
 
 ### I am currently learning & working on: 
+  - UX / UI Design (Adobe XD)
   - Online Marketing (Google Analystic / SEO)
   - Mobile Development (React Native)
-  - React Eco System (Testing, Styling, SSR & SSG)
   - Javascript (YDKJS, Javascript-The Good Parts, other JS framework - Vue.js)
   
 ### My Tech Stacks:
