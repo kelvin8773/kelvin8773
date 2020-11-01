@@ -97,9 +97,9 @@
 ## My Coding Stats on Github
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -130,10 +130,10 @@ Sunday       84 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Ruby                     24 mins             █████████████████░░░░░░░░   69.33% 
-YAML                     10 mins             ███████░░░░░░░░░░░░░░░░░░   30.35% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+Ruby                     2 hrs 32 mins       ███████████████████████░░   93.26% 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 ```
 
