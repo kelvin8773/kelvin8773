@@ -130,7 +130,7 @@ Sunday       59 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
