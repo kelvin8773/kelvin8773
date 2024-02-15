@@ -1,10 +1,10 @@
 # Hello, 👋, This is Kelvin.
 
-## I am a father, developer and runner from China.
+## I am a father, developer, and runner from China.
 
 ### I am currently learning & working on: 
   - UX / UI Design (Adobe XD)
-  - Online Marketing (Google Analystic / SEO)
+  - Online Marketing (Google Analytics / SEO)
   - Mobile Development (React Native)
   - Javascript (YDKJS, Javascript-The Good Parts, other JS framework - Vue.js)
   
@@ -20,7 +20,7 @@
 |            | Node.js | Express.js |
 | Ruby       | Ruby on Rails | MVC / RESTFUL API |
 | Pyhon      | Data Science | NumPy / Pandas |
-|            | Maching Learning | Scikit Learn / Tensor Flow|
+|            | Machine Learning | Scikit Learn / Tensor Flow|
 | Database   | Querying | TSQL(MySQL/PostgreSQL) / NoSQL(MongoDB) | 
 |            | Administration | MySQL / MsSQL |
 | CI/CD      | Dokcer         | Kubernetes  |
@@ -28,7 +28,7 @@
 |            | Saas           | Netlify / Heroku / Vercel |
 
     
-### My Faviorites Things To Do:
+### My Favorite Things To Do:
 
 <details>
   <summary>Sporting</summary>  
@@ -69,14 +69,14 @@
 </details> 
 
 ### Please Note: 
-* I am currently seeking some cool open sources projects to contribute.
-* I am open for contract, temp & permanent jobs remotely from China. 
+* I am currently seeking some cool open-source projects to contribute.
+* I am open to remote contract, temp & permanent jobs from China. 
 
 
 ### Connect with me:
 
 [<img align="left" alt="kelvinliang.cn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kelvin9877 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Kelvin9877 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Kelvin9877 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -101,51 +101,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518135%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    128 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-🌆 Daytime    233 commits    ███████░░░░░░░░░░░░░░░░░░   30.62% 
-🌃 Evening    283 commits    █████████░░░░░░░░░░░░░░░░   37.19% 
-🌙 Night      117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.45% 
-Tuesday      136 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
-Wednesday    138 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
-Thursday     120 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-Friday       132 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
-Saturday     66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
-Sunday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.75%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               3 mins              █████████████░░░░░░░░░░░░   54.08% 
-Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
-JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
-
-```
-
-
-<!--END_SECTION:waka-->
-
-<br />
-
-## Github Summary
-
-[![Github Stats](https://get-github-stats.vercel.app/api?username=kelvin8773&show_icons=true)](https://github.com/kelvin8773)
 
 [website]: https://kelvinliang.cn
 [twitter]: https://twitter.com/kelvin9877
